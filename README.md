@@ -1,5 +1,5 @@
 # gpsTrackingUsingArduino
-Simple GPS tracker using Arduino and modules. We use the follwoing components:
+Simple GPS tracker using Arduino and modules. We use the following components:
 
 
 
